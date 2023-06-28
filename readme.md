@@ -1,9 +1,10 @@
-> Visa Card efecto Glass
+## Idea del proyecto
 
+### Visa Card efecto Glass
+
+- La utilizacion predeterminada de medios de pagos internacionales con un efecto glass para darle un distintivo mas elegante.
+  
 ![This is the proyect Tumbail](./img/ProyectImg.png)
 
-# Idea del proyecto
-```
-- La utilizacion predeterminada de medios de pagos internacionales con un efecto glass para darle un distintivo mas elegante.
+> Screeshot del proyecto...
 
-```
